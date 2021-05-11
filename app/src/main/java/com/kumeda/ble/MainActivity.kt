@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
     private val REQUEST_ENABLE_BT = 1
     private val SCAN_PERIOD: Long = 10000
 
+    //aaa
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
